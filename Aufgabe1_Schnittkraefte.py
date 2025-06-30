@@ -6,7 +6,7 @@ from openai import OpenAI
 from AufgabeSchnittkraefte import AufgabeSchnittkraefte
 from Aufgabe1_Gleichgewichte import Aufgabe1_Gleichgewichte
 
-api_key = "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"
+api_key = "sk-proj..."
 client = OpenAI(api_key=api_key)
 
 class Aufgabe1_Schnittkraefte:
